@@ -38,8 +38,7 @@
 
 <br />
 
-## TL;DR
-If you would like to use this application, fork the repository and link back to [saikiran1224](https://github.com/saikiran1224) for proper credits. Thanks in Advance! 
+!
 
 
 ## 🧠 Motivation behind Developing this Application
